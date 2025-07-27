@@ -1,0 +1,10 @@
+:root {
+  --glass-bg: rgba(32,34,40,0.82);
+  --glass-blur: blur(8px);
+  --accent: #6a5cff;
+  --accent-glow: 0 0 32px 6px #6a5cff55;
+  --card-bg: rgba(36,37,44,0.95);
+  --border: #282931;
+  --text-main: #e6e6e6;
+  --text-muted: #b6b6c7;
+}
